@@ -1,0 +1,9 @@
+    # Ignore class files
+    *.class
+    # Ignore logs
+    *.log
+    # Ignore build directory
+    /build/
+    # Ignore IntelliJ project files
+    .idea/
+    /out/
